@@ -5,17 +5,17 @@
 - Run the following command to install project dependencies:
   - yarn
 - Run the testcase using:
-  - npm test
+  - yarn test
 - Run the following command to Run the project on Android:
-  - npm run android
+  - yarn run android (if you have device installed or connected)
     OR
   - npx expo start
-  - press a
+  - scan the QR code OR press a (if you have device installed or connected)
 - Run the following command to Run the project on IOS:
-  - npm run ios
+  - yarn run ios (if you have device installed or connected)
     OR
   - npx expo start
-  - press i
+  - scan the QR code OR press i (if you have device installed or connected)
 
 # Application Description
 
